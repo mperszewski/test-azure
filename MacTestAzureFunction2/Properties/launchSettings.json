@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "MacTestAzureFunction2": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7284",
+      "launchBrowser": false
+    }
+  }
+}
